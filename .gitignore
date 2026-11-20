@@ -1,0 +1,4 @@
+# build output and local files
+*.exe
+*.ini
+*.bak
